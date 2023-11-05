@@ -29,9 +29,9 @@ distlib==0.3.7
 executing==1.2.0
 fastjsonschema==2.18.0
 filelock
-Flask==2.3.2
-flatbuffers==23.5.26
-fonttools==4.41.1
+Flask
+flatbuffers
+fonttools
 fqdn==1.5.1
 gast==0.4.0
 google-auth==2.22.0
