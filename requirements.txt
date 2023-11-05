@@ -22,7 +22,7 @@ comm
 contourpy
 cv
 cycler
-debugpy.post
+debugpy.post==1.6.7.post1
 decorator
 defusedxml
 distlib
