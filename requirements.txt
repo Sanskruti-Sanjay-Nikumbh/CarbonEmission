@@ -1,12 +1,12 @@
 absl-py
 anyio
-argon2-cffi0
-argon2-cffi-bindings0
+argon2-cffi
+argon2-cffi-bindings
 arrow
 asttokens
 astunparse
 async-lru
-attrs0
+attrs
 Babel
 backcall
 beautifulsoup4
