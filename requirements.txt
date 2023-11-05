@@ -19,7 +19,7 @@ charset-normalizer==2.1.1
 click==8.1.6
 colorama==0.4.6
 comm==0.1.4
-contourpy==1.1.0
+contourpy
 cv==1.0.0
 cycler==0.11.0
 debugpy==1.6.7.post1
