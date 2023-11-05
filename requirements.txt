@@ -39,7 +39,7 @@ google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
 grpcio==1.56.2
 gunicorn==21.2.0
-h5py==3.9.0
+h5py
 idna==3.4
 imgviz==1.7.3
 ipykernel==6.25.1
