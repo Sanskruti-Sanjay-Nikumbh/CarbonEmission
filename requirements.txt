@@ -42,7 +42,7 @@ gunicorn==21.2.0
 h5py
 idna==3.4
 imgviz==1.7.3
-ipykernel==6.25.1
+ipykernel
 ipython==8.14.0
 isoduration==20.11.0
 itsdangerous==2.1.2
