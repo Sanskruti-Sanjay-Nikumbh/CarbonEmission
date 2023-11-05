@@ -28,7 +28,7 @@ defusedxml==0.7.1
 distlib==0.3.7
 executing==1.2.0
 fastjsonschema==2.18.0
-filelock==3.12.4
+filelock
 Flask==2.3.2
 flatbuffers==23.5.26
 fonttools==4.41.1
